@@ -4,7 +4,7 @@
     <extension point="xbmc.addon.repository" name="NoDkTV Repository">
         <info>https://raw.githubusercontent.com/T75L/nodktv/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/T75L/nodktv/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/T75L/nodktv/master/</datadir>
+        <datadir zip="true">https://github.com/T75L/nodktv/raw/master/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
@@ -19,9 +19,9 @@
   </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">
-        <info>https://raw.githubusercontent.com/T75L/nodktv/plugin.video.nodktv/master/addon.xml</info>
-        <checksum>https://raw.githubusercontent.com/T75L/nodktv/plugin.video.nodktv/master/addon.xml.md5</checksum>
-        <datadir zip="true">https://github.com/T75L/nodktv/blob/master/plugin.video.nodktv.zip?raw=true</datadir>
+        <info>https://raw.githubusercontent.com/T75L/nodktv/master/plugin.video.nodktv/addon.xml</info>
+        <checksum>https://raw.githubusercontent.com/T75L/nodktv/master/plugin.video.nodktv/addon.xml.md5</checksum>
+        <datadir zip="true">https://github.com/T75L/nodktv/raw/master/plugin.video.nodktv/plugin.video.nodktv.zip</datadir>
 		<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
