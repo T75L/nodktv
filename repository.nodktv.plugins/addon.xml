@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.nodktv.plugins" name="-[COLOR red]NO[/COLOR][COLOR white]DK[/COLOR][COLOR blue]~REPO[/COLOR]-" version="2.2" provider-name="[B]NoDkTV[/B]">
+<extension point="xbmc.addon.repository" name="NoDkTV Repo"><info compressed="false">
+<info>https://raw.githubusercontent.com/T75L/nodktv/master/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/T75L/nodktv/master/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/T75L/nodktv/master/</datadir></extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">TVopenVPN</summary>
+    <description lang="en">[COLOR yellowgreen] Livestreams [/COLOR]-[COLOR red]NO[/COLOR]-[COLOR white]DK[/COLOR]-[COLOR blue]TV[/COLOR]-[COLOR yellowgreen] Channels [/COLOR]</description>
+  </extension>
+</addon>
